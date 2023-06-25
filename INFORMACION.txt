@@ -1,0 +1,2 @@
+es una app de recetas, muestra una lista con las recetas disponibles.
+filtra por categorias ademas puedes añadir otros filtros
